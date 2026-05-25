@@ -8,7 +8,12 @@ APPARATUS: - LVDT kit, Multimeter
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 DIAGRAM:
-CIRCUIT DIAGRAM
+<img width="1671" height="939" alt="image" src="https://github.com/user-attachments/assets/2a2e9af0-a43a-49be-bfc6-297b4a211755" />
+<img width="1687" height="928" alt="image" src="https://github.com/user-attachments/assets/5f0ec56a-1227-49e8-8054-7bbe43b9b520" />
+
+CIRCUIT DIAGRAM:
+<img width="1600" height="1177" alt="image" src="https://github.com/user-attachments/assets/ebd597f5-442d-4eec-ae8b-785206136d5b" />
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -17,7 +22,8 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE
+OBSERVATION TABLE:
+<img width="1600" height="1219" alt="image" src="https://github.com/user-attachments/assets/bab5c4a4-9367-4ce7-b237-105c0c4f5e0f" />
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
